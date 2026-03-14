@@ -8,8 +8,9 @@ The program is designed to request the product name, price, and quantity from th
 1. The program asks the user to enter the product name.
 2. It requests the price of the product.
 3. The program asks for the quantity.
-4. It multiplies the price by the quantity to calculate the total cost.
-5. Finally, the program displays the product information and the total cost.
+4. The program checks if the user enters valid numeric information. 
+5. It multiplies the price by the quantity to calculate the total cost.
+6. Finally, the program displays the product information and the total cost.
 
 ## Status
 The program is currently running as a simple command-line application and it is processing user input to calculate the total cost.
